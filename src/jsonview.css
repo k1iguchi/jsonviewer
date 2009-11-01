@@ -1,0 +1,11 @@
+tr, th, td {
+ border: 1px solid black;
+}
+th, td {
+ vertical-align: top;
+}
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	margin: 10px;
+}
